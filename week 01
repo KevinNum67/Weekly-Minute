@@ -1,0 +1,17 @@
+May 30th:
+report ticket OPC-15857
+verify OPC-13802 OPC-15749 OPC-14989 OPC-15447 AND close those tickets.
+May 31st:
+read opc manual chapter 2-4
+learn Perl script.
+all hands meeting
+June 1st:
+OPC weekly meeting
+double check compliance checker related ticket with different lua files in jobs.
+June 2nd:
+check ENGreview1 OPC-15723 OPC-15827(next review fix this error)
+go through unplanned tickets.
+learn Perl script and frame of Brion product
+June 3rd:
+verify OPC-15799
+revert opc manual error OPC-15732
